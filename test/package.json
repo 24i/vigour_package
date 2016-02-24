@@ -1,0 +1,6 @@
+{
+  "name": "testpackage",
+  "vigour": {
+    "testProperty": "testValue"
+  }
+}

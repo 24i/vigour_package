@@ -1,6 +1,6 @@
 {
   "name": "vigour-package",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "finds your package",
   "main": "lib/index.js",
   "scripts": {

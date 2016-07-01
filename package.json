@@ -22,5 +22,17 @@
   "homepage": "https://github.com/vigour-io/package#readme",
   "dependencies": {
     "vigour-util": "^1.0.1"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ]
+    ]
   }
 }
